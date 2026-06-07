@@ -11,7 +11,7 @@ Como diferencial de segurança, possui um Módulo Ativo de Detecção de Ping Fl
 
 ## Instalação
 1. Clone este repositório:
-   `git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git`
+   `git clone https://github.com/Jfinatto/Python-Packet-Sniffer-com-detector-de-ping-flood.git`
 2. Instale as dependências necessárias:
    `pip install scapy`
    *(Nota para usuários Windows: Certifique-se de possuir o driver Npcap instalado, comumente incluído com o Wireshark).*
